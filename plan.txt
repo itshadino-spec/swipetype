@@ -1,0 +1,7 @@
+swipe type:
+october10th:wrote boilerplate sdl code (100lines)
+tmmrw:
+1. make all 26 alphabet letters in libresprite
+2. make em appear on screen 
+3. figure out mouse input (just return raw path for now)
+bugs:
